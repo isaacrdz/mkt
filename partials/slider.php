@@ -3,9 +3,9 @@
             <div id="revslider-container">
                 <div id="revslider">
                     <ul>
-                        <li data-transition="fade" data-slotamount="8" data-masterspeed="800" data-title="Boss of All Templates" data-thumb="images/homesliders/index/slide1.jpg">
+                        <li data-transition="fade" data-slotamount="8" data-masterspeed="800" data-title="Boss of All Templates" data-thumb="http://lorempixel.com/1920/1280/">
                             <!-- background image -->
-                            <img src="images/revslider/dummy.png"  alt="slidebg1" data-lazyload="images/homesliders/index/slide1.jpg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
+                            <img src="images/revslider/dummy.png"  alt="slidebg1" data-lazyload="http://lorempixel.com/1920/1280/" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
                             
                             <div class="tp-caption rev-subtitle lfb ltt"
                                 data-x="center"
@@ -50,9 +50,9 @@
                                     <a href="#" class="btn btn-white radius-lger min-width"><strong>Purchase Now!</strong></a>
                             </div>
                         </li>
-                        <li data-transition="fade" data-slotamount="8" data-masterspeed="800" data-title="Multipurpose Template" data-thumb="images/homesliders/index/slide2.jpg">
+                        <li data-transition="fade" data-slotamount="8" data-masterspeed="800" data-title="Multipurpose Template" data-thumb="http://lorempixel.com/1920/1280/">
                             <!-- background image -->
-                            <img src="images/revslider/dummy.png"  alt="slidebg1" data-lazyload="images/homesliders/index/slide2.jpg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
+                            <img src="images/revslider/dummy.png"  alt="slidebg1" data-lazyload="http://lorempixel.com/1920/1280/" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat">
 
                             <div class="tp-caption rev-subtitle lfb ltt"
                                 data-x="center"
