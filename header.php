@@ -14,7 +14,7 @@
         <link rel="stylesheet" href="css/magnific-popup.css">
         <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/revslider/revslider-index.css">
-        <link rel="stylesheet" id="color-scheme" href="css/colors/green.css">
+        <link rel="stylesheet" id="color-scheme" href="css/colors/blue.css">
         
         <!-- Favicon and Apple Icons -->
         <link rel="icon" type="image/png" href="images/icons/favicon.png">
