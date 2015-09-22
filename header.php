@@ -9,26 +9,26 @@
         <!--[if IE]> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <![endif]-->
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         
-        <link rel="stylesheet" href="css/animate.css">
-        <link rel="stylesheet" href="css/bootstrap.min.css">
-        <link rel="stylesheet" href="css/magnific-popup.css">
-        <link rel="stylesheet" href="css/style.css">
-        <link rel="stylesheet" href="css/revslider/revslider-index.css">
-        <link rel="stylesheet" id="color-scheme" href="css/colors/blue.css">
+        <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/css/animate.css">
+        <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/css/bootstrap.min.css">
+        <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/css/magnific-popup.css">
+        <link rel="stylesheet" href="<?php bloginfo('stylesheet_url' ); ?>">
+        <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/css/revslider/revslider-index.css">
+        <link rel="stylesheet" id="color-scheme" href="<?php bloginfo('template_url'); ?>/css/colors/blue.css">
         
         <!-- Favicon and Apple Icons -->
-        <link rel="icon" type="image/png" href="images/icons/favicon.png">
-        <link rel="apple-touch-icon" sizes="57x57" href="images/icons/faviconx57.png">
-        <link rel="apple-touch-icon" sizes="72x72" href="images/icons/faviconx72.png">
+        <link rel="icon" type="image/png" href="<?php bloginfo('template_url'); ?>/images/icons/favicon.png">
+        <link rel="apple-touch-icon" sizes="57x57" href="<?php bloginfo('template_url'); ?>/images/icons/faviconx57.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="<?php bloginfo('template_url'); ?>/images/icons/faviconx72.png">
         
         <!-- Modernizr -->
-        <script src="js/modernizr.js"></script>
+        <script src="<?php bloginfo(template_url); ?>/js/modernizr.js"></script>
 
         <!--- jQuery -->
-        <script src="js/jquery.min.js"></script>
+        <script src="<?php bloginfo(template_url); ?>/js/jquery.min.js"></script>
 
         <!-- Queryloader -->
-        <script src="js/queryloader2.min.js"></script>
+        <script src="<?php bloginfo(template_url); ?>/js/queryloader2.min.js"></script>
         
     </head>
     <body>
@@ -145,7 +145,7 @@
                                     <div class="product clearfix">
                                         <a href="#" class="remove-btn" title="Remove"><i class="fa fa-close"></i></a>
                                         <figure>
-                                           <a href="product.html" title="Product Name"><img class="img-responsive" src="images/products/thumbs/product1.jpg" alt="Product image"></a>
+                                           <a href="product.html" title="Product Name"><img class="img-responsive" src="<?php bloginfo('template_url'); ?>/images/products/thumbs/product1.jpg" alt="Product image"></a>
                                         </figure>
                                         <div class="product-meta">
                                             <h4 class="product-name"><a href="product.html">Seamsun 3d Smart Tv</a></h4>
@@ -159,7 +159,7 @@
                                     <div class="product clearfix">
                                         <a href="#" class="remove-btn" title="Remove"><i class="fa fa-close"></i></a>
                                         <figure>
-                                            <a href="product.html" title="Product Name"><img class="img-responsive" src="images/products/thumbs/product1.jpg" alt="Product image"></a>
+                                            <a href="product.html" title="Product Name"><img class="img-responsive" src="<?php bloginfo('template_url'); ?>/images/products/thumbs/product1.jpg" alt="Product image"></a>
                                         </figure>
                                         <div class="product-meta">
                                             <h4 class="product-name"><a href="product.html">Banana Smart Watch</a></h4>
@@ -591,7 +591,7 @@
                                     <div class="product clearfix">
                                         <a href="#" class="remove-btn" title="Remove"><i class="fa fa-close"></i></a>
                                         <figure>
-                                           <a href="product.html" title="Product Name"><img class="img-responsive" src="images/products/thumbs/product1.jpg" alt="Product image"></a>
+                                           <a href="product.html" title="Product Name"><img class="img-responsive" src="<?php bloginfo('template_url'); ?>/images/products/thumbs/product1.jpg" alt="Product image"></a>
                                         </figure>
                                         <div class="product-meta">
                                             <h4 class="product-name"><a href="product.html">Seamsun 3d Smart Tv</a></h4>
@@ -605,7 +605,7 @@
                                     <div class="product clearfix">
                                         <a href="#" class="remove-btn" title="Remove"><i class="fa fa-close"></i></a>
                                         <figure>
-                                            <a href="product.html" title="Product Name"><img class="img-responsive" src="images/products/thumbs/product1.jpg" alt="Product image"></a>
+                                            <a href="product.html" title="Product Name"><img class="img-responsive" src="<?php bloginfo('template_url'); ?>/images/products/thumbs/product1.jpg" alt="Product image"></a>
                                         </figure>
                                         <div class="product-meta">
                                             <h4 class="product-name"><a href="product.html">Banana Smart Watch</a></h4>

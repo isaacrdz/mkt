@@ -9,7 +9,7 @@
                         <div class="owl-carousel testimonial-slider">
                             <div class="testimonial">
                                 <figure>
-                                    <img src="images/testimonials/dean.jpg" alt="Dean">
+                                    <img src="<?php bloginfo('template_url') ?>/images/testimonials/dean.jpg" alt="Dean">
                                 </figure>
                                 <div class="testimonial-content">
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias velit doloremque eaque ea optio, incidunt, sint maiores omnis, cumque et illum deserunt repellat laudantium, natus iusto architecto aliquid dicta sapiente.</p>
@@ -18,7 +18,7 @@
                             </div><!-- End .testimonial -->
                             <div class="testimonial">
                                 <figure>
-                                    <img src="images/testimonials/john.jpg" alt="John">
+                                    <img src="<?php bloginfo('template_url') ?>/images/testimonials/john.jpg" alt="John">
                                 </figure>
                                 <div class="testimonial-content">
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias velit doloremque eaque ea optio, incidunt, sint maiores omnis, cumque et illum deserunt repellat laudantium, natus iusto architecto aliquid dicta sapiente.</p>
@@ -27,7 +27,7 @@
                             </div><!-- End .testimonial -->
                             <div class="testimonial">
                                 <figure>
-                                    <img src="images/testimonials/sarah.jpg" alt="Dean">
+                                    <img src="<?php bloginfo('template_url') ?>/images/testimonials/sarah.jpg" alt="Dean">
                                 </figure>
                                 <div class="testimonial-content">
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias velit doloremque eaque ea optio, incidunt, sint maiores omnis, cumque et illum deserunt repellat laudantium, natus iusto architecto aliquid dicta sapiente.</p>
@@ -42,42 +42,42 @@
                         <div class="owl-carousel home-clients-carousel">
                             <div class="partner-wrapper">
                                 <div class="partner">
-                                    <img src="images/clients/c1.png" alt="Partner Name">
+                                    <img src="<?php bloginfo('template_url') ?>/images/clients/c1.png" alt="Partner Name">
                                 </div><!-- end .partner -->
                                 <div class="partner">
-                                    <img src="images/clients/c2.png" alt="Partner Name">
-                                </div><!-- end .partner -->
-                            </div><!-- end .partner-wrapper -->
-                            <div class="partner-wrapper">
-                                <div class="partner">
-                                    <img src="images/clients/c3.png" alt="Partner Name">
-                                </div><!-- end .partner -->
-                                <div class="partner">
-                                    <img src="images/clients/c4.png" alt="Partner Name">
+                                    <img src="<?php bloginfo('template_url') ?>/images/clients/c2.png" alt="Partner Name">
                                 </div><!-- end .partner -->
                             </div><!-- end .partner-wrapper -->
                             <div class="partner-wrapper">
                                 <div class="partner">
-                                    <img src="images/clients/c5.png" alt="Partner Name">
+                                    <img src="<?php bloginfo('template_url') ?>/images/clients/c3.png" alt="Partner Name">
                                 </div><!-- end .partner -->
                                 <div class="partner">
-                                    <img src="images/clients/c6.png" alt="Partner Name">
-                                </div><!-- end .partner -->
-                            </div><!-- end .partner-wrapper -->
-                            <div class="partner-wrapper">
-                                <div class="partner">
-                                    <img src="images/clients/c7.png" alt="Partner Name">
-                                </div><!-- end .partner -->
-                                <div class="partner">
-                                    <img src="images/clients/c8.png" alt="Partner Name">
+                                    <img src="<?php bloginfo('template_url') ?>/images/clients/c4.png" alt="Partner Name">
                                 </div><!-- end .partner -->
                             </div><!-- end .partner-wrapper -->
                             <div class="partner-wrapper">
                                 <div class="partner">
-                                    <img src="images/clients/c2.png" alt="Partner Name">
+                                    <img src="<?php bloginfo('template_url') ?>/images/clients/c5.png" alt="Partner Name">
                                 </div><!-- end .partner -->
                                 <div class="partner">
-                                    <img src="images/clients/c3.png" alt="Partner Name">
+                                    <img src="<?php bloginfo('template_url') ?>/images/clients/c6.png" alt="Partner Name">
+                                </div><!-- end .partner -->
+                            </div><!-- end .partner-wrapper -->
+                            <div class="partner-wrapper">
+                                <div class="partner">
+                                    <img src="<?php bloginfo('template_url') ?>/images/clients/c7.png" alt="Partner Name">
+                                </div><!-- end .partner -->
+                                <div class="partner">
+                                    <img src="<?php bloginfo('template_url') ?>/images/clients/c8.png" alt="Partner Name">
+                                </div><!-- end .partner -->
+                            </div><!-- end .partner-wrapper -->
+                            <div class="partner-wrapper">
+                                <div class="partner">
+                                    <img src="<?php bloginfo('template_url') ?>/images/clients/c2.png" alt="Partner Name">
+                                </div><!-- end .partner -->
+                                <div class="partner">
+                                    <img src="<?php bloginfo('template_url') ?>/images/clients/c3.png" alt="Partner Name">
                                 </div><!-- end .partner -->
                             </div><!-- end .partner-wrapper -->
                         </div><!-- End .owl-carousel -->

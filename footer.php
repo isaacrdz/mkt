@@ -25,26 +25,26 @@
     <!-- END -->
 
     <!-- Smoothscroll -->
-    <script src="js/smoothscroll.js"></script>
+    <script src="<?php bloginfo('template_url'); ?>/js/smoothscroll.js"></script>
 
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/jquery.hoverIntent.min.js"></script>
-    <script src="js/jquery.nicescroll.min.js"></script>
-    <script src="js/waypoints.min.js"></script>
-    <script src="js/waypoints-sticky.min.js"></script>
-    <script src="js/jquery.debouncedresize.js"></script>
-    <script src="js/retina.min.js"></script>
-    <script src="js/owl.carousel.min.js"></script>
-    <script src="js/jflickrfeed.min.js"></script>
-    <script src="js/twitter/jquery.tweet.min.js"></script>
-    <script src="js/skrollr.min.js"></script>
-    <script src="js/jquery.countTo.js"></script>
-    <script src="js/isotope.pkgd.min.js"></script>
-    <script src="js/jquery.magnific-popup.min.js"></script>
-    <script src="js/jquery.themepunch.tools.min.js"></script>
-    <script src="js/jquery.themepunch.revolution.min.js"></script>
-    <script src="js/wow.min.js"></script>
-    <script src="js/main.js"></script>
+    <script src="<?php bloginfo('template_url'); ?>/js/bootstrap.min.js"></script>
+    <script src="<?php bloginfo('template_url'); ?>/js/jquery.hoverIntent.min.js"></script>
+    <script src="<?php bloginfo('template_url'); ?>/js/jquery.nicescroll.min.js"></script>
+    <script src="<?php bloginfo('template_url'); ?>/js/waypoints.min.js"></script>
+    <script src="<?php bloginfo('template_url'); ?>/js/waypoints-sticky.min.js"></script>
+    <script src="<?php bloginfo('template_url'); ?>/js/jquery.debouncedresize.js"></script>
+    <script src="<?php bloginfo('template_url'); ?>/js/retina.min.js"></script>
+    <script src="<?php bloginfo('template_url'); ?>/js/owl.carousel.min.js"></script>
+    <script src="<?php bloginfo('template_url'); ?>/js/jflickrfeed.min.js"></script>
+    <script src="<?php bloginfo('template_url'); ?>/js/twitter/jquery.tweet.min.js"></script>
+    <script src="<?php bloginfo('template_url'); ?>/js/skrollr.min.js"></script>
+    <script src="<?php bloginfo('template_url'); ?>/js/jquery.countTo.js"></script>
+    <script src="<?php bloginfo('template_url'); ?>/js/isotope.pkgd.min.js"></script>
+    <script src="<?php bloginfo('template_url'); ?>/js/jquery.magnific-popup.min.js"></script>
+    <script src="<?php bloginfo('template_url'); ?>/js/jquery.themepunch.tools.min.js"></script>
+    <script src="<?php bloginfo('template_url'); ?>/js/jquery.themepunch.revolution.min.js"></script>
+    <script src="<?php bloginfo('template_url'); ?>/js/wow.min.js"></script>
+    <script src="<?php bloginfo('template_url'); ?>/js/main.js"></script>
 
     <script>
         (function () {
