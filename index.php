@@ -19,13 +19,8 @@
                             </figure>
                         </div><!-- End .entry-media -->
 
-                        <div class="entry-content-wrapper">
-                            <span class="entry-date">24<span>Feb</span></span>
-                            <span class="entry-format"><i class="fa fa-file-image-o"></i></span>
-
+                        <div class="">
                             <h2 class="entry-title"><a href="#"><?php the_title(); ?></a></h2>
-                        
-
                             <div class="entry-content">
                                 <p><?php the_excerpt(); ?></p>
                             </div><!-- End .entry-content -->
