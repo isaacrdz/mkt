@@ -1,5 +1,5 @@
 <?php get_header(); ?>
-<?php include( TEMPLATEPATH . "/partials/slider.php") ?>
+
 <?php include( TEMPLATEPATH . "/partials/ads-1.php") ?>
 <div class="mb10"></div><!-- space -->
 <hr class="mt20 mb70 gray">
