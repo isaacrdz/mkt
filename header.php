@@ -14,7 +14,7 @@
         <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/css/magnific-popup.css">
         <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/css/mediaelementplayer.css">
         <link rel="stylesheet" href="<?php bloginfo('stylesheet_url') ?>">
-        <link rel="stylesheet" id="color-scheme" href="<?php bloginfo('template_url'); ?>/css/colors/green.css">
+        <link rel="stylesheet" id="color-scheme" href="<?php bloginfo('template_url'); ?>/css/colors/blue.css">
         
         <!-- Favicon and Apple Icons -->
         <link rel="icon" type="image/png" href="<?php bloginfo('template_url'); ?>/images/icons/favicon.png">
